@@ -182,21 +182,21 @@
 <smd name="22" x="7.8" y="0.35" dx="1.8" dy="0.5" layer="1" rot="R90"/>
 <smd name="23" x="8.5" y="0.35" dx="1.8" dy="0.5" layer="1" rot="R90"/>
 <smd name="24" x="9.2" y="0.35" dx="1.8" dy="0.5" layer="1" rot="R90"/>
-<smd name="25" x="10.08" y="1.8" dx="1.8" dy="0.5" layer="1"/>
-<smd name="26" x="10.08" y="2.5" dx="1.8" dy="0.5" layer="1"/>
-<smd name="27" x="10.08" y="3.2" dx="1.8" dy="0.5" layer="1"/>
-<smd name="28" x="10.08" y="3.9" dx="1.8" dy="0.5" layer="1"/>
-<smd name="29" x="10.08" y="4.6" dx="1.8" dy="0.5" layer="1"/>
-<smd name="30" x="10.08" y="5.3" dx="1.8" dy="0.5" layer="1"/>
-<smd name="31" x="10.08" y="6" dx="1.8" dy="0.5" layer="1"/>
-<smd name="32" x="10.08" y="6.7" dx="1.8" dy="0.5" layer="1"/>
-<smd name="33" x="10.08" y="7.4" dx="1.8" dy="0.5" layer="1"/>
-<smd name="34" x="10.08" y="8.1" dx="1.8" dy="0.5" layer="1"/>
-<smd name="35" x="10.08" y="8.8" dx="1.8" dy="0.5" layer="1"/>
-<smd name="36" x="10.08" y="9.5" dx="1.8" dy="0.5" layer="1"/>
-<smd name="37" x="10.08" y="10.2" dx="1.8" dy="0.5" layer="1"/>
-<smd name="38" x="10.08" y="10.9" dx="1.8" dy="0.5" layer="1"/>
-<smd name="39" x="10.08" y="11.8" dx="1.8" dy="0.9" layer="1"/>
+<smd name="25" x="9.65" y="1.8" dx="1.8" dy="0.5" layer="1"/>
+<smd name="26" x="9.65" y="2.5" dx="1.8" dy="0.5" layer="1"/>
+<smd name="27" x="9.65" y="3.2" dx="1.8" dy="0.5" layer="1"/>
+<smd name="28" x="9.65" y="3.9" dx="1.8" dy="0.5" layer="1"/>
+<smd name="29" x="9.65" y="4.6" dx="1.8" dy="0.5" layer="1"/>
+<smd name="30" x="9.65" y="5.3" dx="1.8" dy="0.5" layer="1"/>
+<smd name="31" x="9.65" y="6" dx="1.8" dy="0.5" layer="1"/>
+<smd name="32" x="9.65" y="6.7" dx="1.8" dy="0.5" layer="1"/>
+<smd name="33" x="9.65" y="7.4" dx="1.8" dy="0.5" layer="1"/>
+<smd name="34" x="9.65" y="8.1" dx="1.8" dy="0.5" layer="1"/>
+<smd name="35" x="9.65" y="8.8" dx="1.8" dy="0.5" layer="1"/>
+<smd name="36" x="9.65" y="9.5" dx="1.8" dy="0.5" layer="1"/>
+<smd name="37" x="9.65" y="10.2" dx="1.8" dy="0.5" layer="1"/>
+<smd name="38" x="9.65" y="10.9" dx="1.8" dy="0.5" layer="1"/>
+<smd name="39" x="9.65" y="11.8" dx="1.8" dy="0.9" layer="1"/>
 <text x="2.98" y="17.09" size="0.8128" layer="25">&gt;Name</text>
 <text x="3.08" y="-2.11" size="0.8128" layer="27">&gt;Value</text>
 <smd name="40" x="7.9" y="11.25" dx="1.2" dy="0.5" layer="1"/>
